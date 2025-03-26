@@ -1,0 +1,7 @@
+cidr-range-vpc            = "10.0.0.0/24"
+vpc-name                  = "Devops-vpc"
+public-subnet-cidr-range  = "10.0.0.0/25"
+availability-zone         = "eu-west-1a"
+public-subnet-name        = "My-public-subnet"
+private-subnet-cidr-range = "10.0.0.128/25"
+private-subnet-name       = "My-private-subnet"
